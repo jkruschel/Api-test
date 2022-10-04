@@ -1,0 +1,25 @@
+_id: req_823791ec0c044f229f14ae72a3bfe870
+type: Request
+parentId: fld_7d1781acfd824002a0336092a0bb5d1b
+modified: 1664875018844
+created: 1664874524647
+url: ""
+name: New Request
+description: ""
+method: POST
+body:
+  mimeType: application/xml
+  text: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/xml
+authentication: {}
+metaSortKey: 0
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
